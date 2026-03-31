@@ -68,7 +68,7 @@ AutoEIT/
 
 ## ⚙️ How It Works
 
-```
+```mermaid
 flowchart LR
     A[📥 Input Excel] --> B[🧹 Preprocessing]
     B --> C[🧠 Feature Engineering]
