@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project implements an automated scoring system for the **Elicited Imitation Task (EIT)** as part of the **HumanAI AutoEIT GSoC project**.
+This project implements an automated scoring system for the **Elicited Imitation Task (EIT)**.
 
 The system evaluates learner transcriptions against prompt sentences and assigns a score (0–4) based on meaning preservation and accuracy, following a rubric-based approach.
 
@@ -130,4 +130,3 @@ Each sheet contains:
 
 ## 👨‍💻 Author
 Ansh Shrivastava
-GSoC 2026 Applicant — HumanAI AutoEIT
